@@ -1,0 +1,23 @@
+{
+  "name": "lj-demo",
+  "version": "0.1.0",
+  "description": "make test",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enjoynodejser/lj-demo.git"
+  },
+  "keywords": [
+    "node",
+    "module"
+  ],
+  "author": "linjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enjoynodejser/lj-demo/issues"
+  },
+  "homepage": "https://github.com/enjoynodejser/lj-demo#readme"
+}
